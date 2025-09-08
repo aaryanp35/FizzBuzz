@@ -2,7 +2,7 @@ package lab1;
 
 public class Main {
     public static void main(String[] args) {
-        Fiz
+        int i = FizzBuzz.doFizzBuzz(5);
     }
 }
 
